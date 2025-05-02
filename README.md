@@ -12,21 +12,6 @@ A clean and responsive personal portfolio website built using only **HTML** and 
 - 📜 Semantic and accessible HTML5 structure
 
 
-## 🛠️ Technologies Used
-
-- **HTML5** – Markup for structure and content
-- **CSS3** – Styling, layout, and visual effects
-  - Transitions
-  - Hover effects
-  - Flexbox/Grid for layout
-
-## 🌐 Pages
-
-- `index.html` – Homepage with intro and navigation
-- `about.html` – Personal background and skillset
-- `projects.html` – Showcase of selected works
-- `contact.html` – Contact form and links
-
 ## 💡 Customization
 
 You can easily update:
@@ -34,19 +19,7 @@ You can easily update:
 - Colors, fonts, and spacing in `styles.css`
 - Replace placeholder images with your own in the `images/` folder
 
-## 📷 Screenshots
-
-(Add screenshots of the portfolio homepage and other pages here.)
-
-## 🔗 Live Demo
-
-(If hosted, add the link here. E.g., GitHub Pages, Netlify)
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
+ 
+ 
 
 
